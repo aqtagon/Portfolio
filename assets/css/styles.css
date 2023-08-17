@@ -6,3 +6,54 @@ header {
 header h1 {
     border: 1px black solid;
 }
+
+.about-me {
+    display: flex;
+    flex-direction: row;
+}
+
+.work {
+    display: flex;
+    flex-direction: row;
+
+}
+
+.contact-me {
+    display: flex;
+    flex-direction: row;   
+}
+
+.footer-nav {
+    display: flex;
+    align-content: center;
+    background-color: #f0f0f0;
+    padding: 20px 0;
+}
+
+.footer-nav a {
+    text-decoration: none;
+    color: #333;
+    margin: 0 15px;
+    font-size: 16px;
+}
+
+.footer-nav a:hover {
+    color: blue;
+}
+
+#about-me {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start; 
+    text-align: center; 
+   
+}
+
+.about-me-paragraph {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    max-width: 400px;
+    margin-left: 95px;
+}
