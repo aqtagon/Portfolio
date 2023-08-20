@@ -76,3 +76,17 @@ body {
     background-color: rgba(206, 186, 149, 0.901);
 }
 
+.work {
+    display: flex;
+    align-items: center;
+}
+
+.work h2 {
+    margin-right: 60px; 
+}
+
+.work .image-container {
+    margin-left: 0;
+    margin-right: 0;
+   
+}
