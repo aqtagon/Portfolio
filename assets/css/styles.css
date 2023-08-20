@@ -57,3 +57,22 @@ header h1 {
     max-width: 400px;
     margin-left: 95px;
 }
+
+.image-container {
+    display: flex;
+    margin: auto;
+    max-width: 50%;
+    height: auto;
+
+}
+
+.image-container img {
+    max-width: 70%;
+    height: auto;
+    border-radius: 50%;
+}
+
+body {
+    background-color: rgba(206, 186, 149, 0.901);
+}
+
