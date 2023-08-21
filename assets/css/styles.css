@@ -3,6 +3,7 @@ header {
     flex-direction: row;
     justify-content: space-between;
 }
+
 header h1 {
     border: 1px black solid;
 }
@@ -10,12 +11,6 @@ header h1 {
 .about-me {
     display: flex;
     flex-direction: row;
-}
-
-.work {
-    display: flex;
-    flex-direction: row;
-
 }
 
 .contact-me {
@@ -61,7 +56,7 @@ header h1 {
 .image-container {
     display: flex;
     margin: auto;
-    max-width: 50%;
+    max-width: 70%;
     height: auto;
 
 }
@@ -70,23 +65,50 @@ header h1 {
     max-width: 70%;
     height: auto;
     border-radius: 50%;
+
 }
 
 body {
     background-color: rgba(206, 186, 149, 0.901);
+
 }
 
-.work {
+.portfolio {
     display: flex;
+    flex-direction: column;
     align-items: center;
+    text-align: center;
+    padding: 20px;
 }
 
-.work h2 {
-    margin-right: 60px; 
+.portfolio h2 {
+    margin-bottom: 20px; 
+
 }
 
-.work .image-container {
-    margin-left: 0;
-    margin-right: 0;
-   
+.portfolio .image-container {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    border: 2px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+
+}
+
+.portfolio .image-container img {
+    max-width: 300px;
+    height: auto;
+    max-height: 400px;
+    border-radius: 10px;
+}
+
+.horiseon {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    text-align: center;
+    margin-left: -350px;
 }
