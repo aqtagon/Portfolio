@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../classwork_repo/UCB-VIRT-FSF-PT-07-2023-U-LOLC/02-Advanced-CSS/02-Challenge"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio",
+		"liveServer.settings.port": 5501
+	}
+}
