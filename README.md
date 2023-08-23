@@ -22,9 +22,10 @@ The goal of this assignment was to create a portfolio website from scratch to sh
 #### Result
 - See final Portfolio website here: 
 - Preview: ![Portfolio](<assets/images/Screenshot 2023-08-22 at 2.41.52 PM.png>)
-- Website URL: 
+- Website: [Link](https://aqtagon.github.io/Portfolio/)
 
 Note: Received assistance from tutor Dane Shrewsbury and TA's Alex Miramontes and David Park.
+
 Used these sites for assistance: Google, ChatGPT, https://flexboxsheet.com/.
 
 
